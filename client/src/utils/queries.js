@@ -99,4 +99,5 @@ export const QUERY_ME_BASIC = gql`
   }
 `;
 
+
 module.export = { QUERY_THOUGHTS, QUERY_THOUGHT, QUERY_USER };
